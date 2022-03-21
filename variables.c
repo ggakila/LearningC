@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
- int main()
-{
+int main()
+
 	char characterName[] = "Maliblue";
 	int characterAge = 3;
 	printf("There is a dog named %s\n", characterName);
